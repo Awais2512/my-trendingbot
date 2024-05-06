@@ -1,0 +1,2 @@
+{"message": "Starting bot for https://dexscreener.com/ on Blockchain solana with pair 72fANEbS7akgcZBMWNsSfBwsa5z9kVDUtBqww31FYx8p", "level": "INFO", "timestamp": "2024-05-06T21:44:28.099824"},
+{"message": "Error so we move to next iteration:No module named 'blinker._saferef' ", "level": "INFO", "timestamp": "2024-05-06T21:44:28.387056"},
